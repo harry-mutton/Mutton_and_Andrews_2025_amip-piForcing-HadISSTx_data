@@ -1,6 +1,6 @@
 # Mutton_and_Andrews_2025_amip-piForcing-HadISSTx_data
 
-This repository contains the amip-piForcing-HadISST2ice and amip-piForcing-HadISST1sst data needed to produce the analysis presented in Mutton and Andrews 2025.
+This repository contains the HadGEM3-GC31-LL amip-piForcing, amip-piForcing-HadISST2ice and amip-piForcing-HadISST1sst data needed to produce the analysis presented in Mutton and Andrews (2025).
 
 
 Experiment Code | Experiment Name 
