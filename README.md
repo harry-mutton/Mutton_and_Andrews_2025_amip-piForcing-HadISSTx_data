@@ -13,3 +13,14 @@ df847 | amip-piForcing-HadISST2ice
 df886 | amip-piForcing-HadISST2ice
 df889 | amip-piForcing-HadISST2ice
 bs516 | amip-piForcing-HadISST1sst
+
+
+# Data Files
+
+See netCDF files in data directory
+
+
+# Citation and Use
+
+
+Please contact the author (harry.mutton@metoffice.gov.uk) before using the data.
