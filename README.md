@@ -22,5 +22,6 @@ See netCDF files in data directory
 
 # Citation and Use
 
+Mutton, H., & Andrews, T. (2025). harry-mutton/Mutton_and_Andrews_2025_amip-piForcing-HadISSTx_data: amip-piForcing, amip-piForcing-HadISST1sst, and amip-piForcing-HadISST2ice simulation data (V1.2). Zenodo. https://doi.org/10.5281/zenodo.14925167
 
 Please contact the author (harry.mutton@metoffice.gov.uk) before using the data.
